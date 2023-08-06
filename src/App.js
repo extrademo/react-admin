@@ -14,7 +14,7 @@ import WishList from './Admin Panel/WishList';
 import Contact from './Admin Panel/Contact';
 import Subscribe from './Admin Panel/Subscribe';
 
-  // Project-15 :- Final Project (Admin Panel)
+  // Project-15 :- Final Project (Admin Panel) (// git new account)
     
 function App() {
 
